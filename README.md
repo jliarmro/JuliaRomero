@@ -1,0 +1,2 @@
+# JuliaRomero
+ static personal website
